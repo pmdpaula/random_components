@@ -1,0 +1,38 @@
+{
+  "title": "HTML, CSS e Javascript",
+  "description": "Estudos de HTML, CSS e Javascript",
+  "theme": {
+    "colors": {
+      "primaryText": "#000000",
+      "secondaryText": "#757575",
+      "divider": "#BDBDBD",
+      "primary": "#607d8b",
+      "primaryLight": "#8eacbb",
+      "primaryDark": "#34515e",
+      "secondary": "#ffb300",
+      "secondaryLight": "##ffe54c",
+      "secondaryDark": "#c68400",
+      "contrastText": "#FFFFFF",
+      "wrong": "#d84315",
+      "success": "#43A047"
+    },
+    "borderRadius": "4px"
+  },
+  "pageLinks": [
+    {
+      "description": "Barra de Progresso Circular",
+      "href": "PageCircleProgressBar",
+      "linkLearned": "https://youtu.be/Ft73g5Kyknw"
+    },
+    {
+      "description": "Loader em Anel Brilhante Colorido",
+      "href": "PageGlowingGradientLoaderRing",
+      "linkLearned": "https://youtu.be/jThaNv8pKDQ"
+    },
+    {
+      "description": "CSS Responsive Card Hover Effects | Html & CSS",
+      "href": "PageResponsiveCardHoverEffect",
+      "linkLearned": "https://youtu.be/8b2mTq0Xrtw"
+    }
+  ]
+}
